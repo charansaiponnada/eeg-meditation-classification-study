@@ -1,0 +1,33 @@
+# notebook
+notebook==6.4.12
+
+# Core numerical stack
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# EEG processing
+mne==1.5.1
+pyedflib==0.1.36
+
+# Deep learning
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Training utilities
+scikit-learn==1.2.2
+tqdm==4.65.0
+
+# Interactive EEG plotting (IMPORTANT)
+pyqt5==5.15.9
+pyqtgraph==0.13.3
+
+# Jupyter (optional but recommended)
+jupyter==1.0.0
+ipykernel==6.25.2
+jupyterlab==4.5.1

@@ -1,0 +1,594 @@
+Info for sub-001 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-04 19:40:17 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-001 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-04 20:30:06 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-002 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-12 16:08:01 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-002 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-12 16:57:33 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-003 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-09 20:23:47 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-003 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-09 20:48:05 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-004 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-16 16:37:48 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-004 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-16 17:07:50 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-005 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-13 19:34:05 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-005 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-13 20:20:48 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-006 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-28 16:09:17 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-006 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-28 16:58:21 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-007 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-07 22:09:21 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-007 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-07 23:01:11 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-008 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-02 07:48:22 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-008/ses-02/eeg/sub-008_ses-02_task-meditation_eeg.bdf
+Info for sub-009 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-07 11:07:47 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-009 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-07 11:59:11 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-010 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-30 22:22:51 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-010 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-30 23:14:24 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-011 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-01 11:07:37 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-011 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-01 11:59:30 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-012 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-17 08:03:35 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-012/ses-02/eeg/sub-012_ses-02_task-meditation_eeg.bdf
+Info for sub-013 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-05 14:20:56 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-013/ses-02/eeg/sub-013_ses-02_task-meditation_eeg.bdf
+Info for sub-014 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-05 15:16:35 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-014/ses-02/eeg/sub-014_ses-02_task-meditation_eeg.bdf
+Info for sub-015 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-04 10:57:02 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-015/ses-02/eeg/sub-015_ses-02_task-meditation_eeg.bdf
+Info for sub-016 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-02 15:18:38 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-016 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-02 16:01:27 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-017 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-11 07:04:11 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-017 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-11 08:03:31 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-018 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-13 15:29:19 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-018 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-13 16:24:08 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-019 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-30 08:45:33 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-019/ses-02/eeg/sub-019_ses-02_task-meditation_eeg.bdf
+Info for sub-020 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-29 15:10:00 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-020/ses-02/eeg/sub-020_ses-02_task-meditation_eeg.bdf
+Info for sub-021 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-14 08:01:06 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-021/ses-02/eeg/sub-021_ses-02_task-meditation_eeg.bdf
+Info for sub-022 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-16 20:18:55 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-022 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-16 20:45:11 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-023 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-03 11:01:32 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-023 ses-02:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-04-03 11:53:41 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+Info for sub-024 ses-01:
+<Info | 8 non-empty values
+ bads: []
+ ch_names: A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, ...
+ chs: 79 EEG, 1 Stimulus
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 52.0 Hz
+ meas_date: 2014-03-29 08:03:24 UTC
+ nchan: 80
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: >
+>
+============================================================
+File does not exist: ds001787/sub-024/ses-02/eeg/sub-024_ses-02_task-meditation_eeg.bdf
