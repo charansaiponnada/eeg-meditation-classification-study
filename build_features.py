@@ -10,8 +10,6 @@ from sklearn.feature_selection import mutual_info_regression
 import random
 
 def preprocess_eeg(eeg_path, channels_tsv):
-    import pandas as pd
-    import mne
 
     # Load raw EEG
     raw = mne.io.read_raw_bdf(eeg_path, preload=True, verbose=False)
@@ -54,6 +52,11 @@ def preprocess_eeg(eeg_path, channels_tsv):
 
     return raw
 
+"""
+    Feature extraction functions:
+    Band Power, Entropy, Fast Mutual Information,
+    Fast Coherence, Phase-Amplitude Coupling
+"""
 
 def band_power(eeg, sfreq):
     psd, freqs = psd_array_welch(eeg, sfreq, fmin=1, fmax=40, n_fft=1024)
