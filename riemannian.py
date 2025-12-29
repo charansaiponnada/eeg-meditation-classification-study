@@ -27,8 +27,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 # USER PATHS (adjust if needed)
 # -------------------------------------------------
 BIDS_ROOT = Path("C:/projects/eegnets/ds001787")
-WINDOW_TMIN = -30.5 
-WINDOW_TMAX = -0.5
+WINDOW_TMIN = -15 #-30.5 
+WINDOW_TMAX = -5  #-0.5
 SFREQ = 256
 
 

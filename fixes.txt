@@ -1,0 +1,15 @@
+Fix bandpower to be region-wise:
+
+Example:
+1. define the regions (Frontal, Central, Parietal, Occipital)
+2. ⁠compute mean log bandpower per region
+3. ⁠compute relative power per region (band / total 1–40)
+4. ⁠add ratios: theta/beta, alpha/theta per region
+
+For Riemannian:
+
+1. Compute covariance per trial window (64×64)
+2. ⁠map to tangent space
+3. ⁠train LogisticRegression / SVM
+
+Use 10 seconds windows only instead of the current 30 seconds
