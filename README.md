@@ -48,15 +48,12 @@ Rather than chasing incremental accuracy improvements, the goal evolved into:
 This repository contains **three complete and rigorously evaluated EEG pipelines**, all built from scratch.
 
 Pipe line used : 
-```markdown
-- Classical spectral features
-- Region-based neurophysiology-aligned features
-- Riemannian geometry (covariance + tangent space)
-```
 
-**Visual Overview**:
+![EEG Pipeline](./images/Preprocessing_pipeline.png)
 
-![EEG Pipeline Comparison](./images/pipeline_comparison.png)
+Plots i have created after the pipeline:(EDA)
+
+![Plots](./images/plots-eda.png)
 ---
 
 ### 1️⃣ Global / Handcrafted Features
